@@ -20,7 +20,7 @@ A classic "Rock, Paper, Scissors" game with a graphical interface. The player ch
 
 2. **Install required dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 3. **Launch the game:**
@@ -30,7 +30,7 @@ python main.py
 
 ## 📦 Dependencies
 
-Main dependencies are listed in the `requirements.txt` file:
+Main dependencies are listed in the `req.txt` file:
 - `pygame==2.6.1` - game engine
 - `colorama==0.4.6` - colored console output
 - `icecream==2.1.4` - debugging
@@ -63,4 +63,5 @@ Game settings can be modified in the configuration files located in the `config/
 </p>
 
 **Good luck and have fun!**
+
 
