@@ -41,7 +41,6 @@ Main dependencies are listed in the `requirements.txt` file:
 ## 🎯 Controls
 
 - **Mouse**: Selecting options (Rock, Paper, Scissors)
-- **Interface buttons**: Menu navigation
 - **ESC**: Exit the game
 
 ## 🎨 Features
@@ -58,6 +57,10 @@ Game settings can be modified in the configuration files located in the `config/
 
 ---
 
-
+<p align="center">
+  <img src="./doc/scrin1.png" width="45%" alt="menu screenshot">
+  <img src="./doc/scrin2.png" width="45%" alt="game screenshot">
+</p>
 
 **Good luck and have fun!**
+
